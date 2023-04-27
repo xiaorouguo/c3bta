@@ -1,2 +1,10 @@
 # c3bta
-Plasma-free blood samples are potential alternatives to whole blood samples for transcriptome analysis
+Code for comparison of three blood sample types for transcriptome analysis (C3BTA)
+
+Table of Contents
+
+Publication
+c3bta
+
+
+
